@@ -1,6 +1,16 @@
-.behind { background: black;
+.behind { background: black; height: 10cm;align-content: center;padding: 0;margin: 0;
 
 }
 .title {
- background: pink; width: 4cm;height: 8cm;
+ background: pink; width: 8cm;height: 8cm;
+ margin-block: auto; margin-inline: auto; text-align: center;padding: 0;overflow-y: scroll;border-radius: .5cm
+ ;
+}
+.image{
+    height: 2cm;width: 4cm; ; 
+
+}
+.text
+{
+    color: #fff;margin-top: 0cm;
 }
