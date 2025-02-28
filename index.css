@@ -17,7 +17,7 @@
   scroll-behavior: smooth;
 }
 .image {
-  width: 4cm;
+  width: 4cm;display: block;margin: auto ;
 }
 .pic {
   text-align: center;
@@ -34,7 +34,7 @@
   color: #fff;
   margin-top: 0cm;
   padding-left: 10px;
-  margin-bottom: 0%;padding-right: 5px;
+  margin-bottom: 10px;padding-right: 5px;
 }
 .but{
     background-color: #fff;border-radius: .5cm;border: 0ch;font-size: 12px; padding: 7px;margin: 10px;
@@ -45,4 +45,9 @@
 .but2{
 
     background-color: #ffffff;border-radius: .4cm;border: 0ch;font-size: 12px; padding-bottom:4px;padding-inline: px;
+}
+.info-head{
+    background: silver;height: 10cm;display: flex;text-align: left;text-align: ;
+}
+.pic{background-color: black;height: 6cm; width: 7cm; margin-inline:auto;margin-block: auto;text-align: center;
 }
