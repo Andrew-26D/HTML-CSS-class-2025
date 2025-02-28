@@ -1,16 +1,38 @@
-.behind { background: black; height: 10cm;align-content: center;padding: 0;margin: 0;
-
+.behind {
+  background: black;
+  height: 10cm;
+  align-content: center;
+  padding: 0;
+  margin: 0;
 }
 .title {
- background: pink; width: 8cm;height: 8cm;
- margin-block: auto; margin-inline: auto; text-align: center;padding: 0;overflow-y: scroll;border-radius: .5cm
- ;
+  background: pink;
+  width: 12cm;
+  height: 8cm;
+  margin-block: auto;
+  margin-inline: auto;
+  padding: 0;
+  overflow-y: auto;
+  border-radius: 0.5cm;
+  scroll-behavior: smooth;
 }
-.image{
-    height: 2cm;width: 4cm; ; 
+.image {
+  width: 4cm;
+}
+.pic {
+  text-align: center;
+}
 
+.text1 {
+  color: #fff;
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 10px;
 }
-.text
-{
-    color: #fff;margin-top: 0cm;
+
+.text {
+  color: #fff;
+  margin-top: 0cm;
+  padding-left: 10px;
+  margin-bottom: 0%;
 }
