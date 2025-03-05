@@ -17,7 +17,9 @@
   scroll-behavior: smooth;
 }
 .image {
-  width: 4cm;display: block;margin: auto ;
+  width: 4cm;
+  display: block;
+  margin: auto;
 }
 .pic {
   text-align: center;
@@ -27,27 +29,52 @@
   color: #fff;
   margin-top: 10px;
   text-align: center;
-  margin-bottom: 10px;;
+  margin-bottom: 10px;
 }
 
 .text {
   color: #fff;
   margin-top: 0cm;
   padding-left: 10px;
-  margin-bottom: 10px;padding-right: 5px;
+  margin-bottom: 10px;
+  padding-right: 5px;
 }
-.but{
-    background-color: #fff;border-radius: .5cm;border: 0ch;font-size: 12px; padding: 7px;margin: 10px;
+.but {
+  background-color: #fff;
+  border-radius: 0.5cm;
+  border: 0ch;
+  font-size: 12px;
+  padding: 7px;
+  margin: 10px;
 }
-.buy{
-    height: 1cm;width: 10cm;display: flex;align-items: center;gap: 10px;background-color: #ffffff9c;justify-content: center;
+.buy {
+  height: 1cm;
+  width: 10cm;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: #ffffff9c;
+  justify-content: center;
 }
-.but2{
-
-    background-color: #ffffff;border-radius: .4cm;border: 0ch;font-size: 12px; padding-bottom:4px;padding-inline: px;
+.but2 {
+  background-color: #ffffff;
+  border-radius: 0.4cm;
+  border: 0ch;
+  font-size: 12px;
+  padding-bottom: 4px;
+  padding-inline: px;
 }
-.info-head{
-    background: silver;height: 10cm;display: flex;text-align: left;text-align: ;
+.info-head {
+  background: silver;
+  height: 10cm;
+  display: flex;
+  text-align: left;
 }
-.pic{background-color: black;height: 6cm; width: 7cm; margin-inline:auto;margin-block: auto;text-align: center;
+.pic {
+  background-color: black;
+  height: 6cm;
+  width: 7cm;
+  margin-inline: auto;
+  margin-block: auto;
+  text-align: center;
 }
